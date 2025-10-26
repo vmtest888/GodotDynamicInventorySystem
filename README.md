@@ -36,20 +36,20 @@ Built from scratch, inspired by the Zelda Breath of the Wild inventory system an
 - UI sounds
 
 ## Video Course
-This source-code is built from scratch in the [**Complete Godot Course: Game User Interfaces Masterclass (Building a Dynamic Inventory System and UI with Godot)**](https://bit.ly/GodotUI). If you want to **learn how to make ALL of this from scratch**, check the course, while also support this project.
+This source-code is built from scratch in the [**Complete Godot Course: Game User Interfaces Masterclass (Building a Dynamic Inventory System and UI with Godot)**](https://splitpainter.itch.io/dynamic-inventory-system-and-ui-with-godot-course). If you want to **learn how to make ALL of this from scratch**, check the course, while also support this project.
 
-[![](./Assets/Docs/courseThumb-YouTube.jpg)](https://bit.ly/GodotUI)
+[![](./Assets/Docs/courseThumb-YouTube.jpg)](https://splitpainter.itch.io/dynamic-inventory-system-and-ui-with-godot-course)
 
 **Game development course with 98 byte sized videos, with a total of 10 hours of video content**, where you are going to learn how to use the Godot Engine and Editor to create an **Inventory System and Inventory UI (User Interface) that is fully dynamic, with scriptable object items and a central database of items** (using Custom Godot's Resources). The inventory system has support for **multiple item categories, category groups, dynamic and infinite scrolling grids, equippable slots** (example: main hand and off hand) and more.  
 
 ### Course Links
-- **[Itch](https://bit.ly/GodotUI)** (DRM-free videos)
+- **[Itch](https://splitpainter.itch.io/dynamic-inventory-system-and-ui-with-godot-course)** (DRM-free videos)
 - **[Udemy](https://www.udemy.com/course/godot-engine-the-ultimate-inventory-dynamic-system-and-ui-course/?referralCode=E1A8C3E5AF8B9EE50CEE)**
 
 You are going to **learn EVERYTHING** there is about creating **complex User Interfaces with Godot**, from scratch, as well as **coding and adding behavior to those interfaces, creating truly dynamic UI screens and components.**  
 
 ## Sponsorship and Donations
-You can support the development of my open-source contributions and this project on [Patreon](https://www.patreon.com/alfredbaudisch), a [PayPal donation](https://www.paypal.com/donate?hosted_button_id=FC5FTRRE3548C) or [buy me a coffee with Ko-fi](https://ko-fi.com/alfredbaudisch). Or of course, [you can get the course](https://bit.ly/GodotUI) and learn how to make all of this from scratch.
+You can support the development of my open-source contributions and this project on [Patreon](https://www.patreon.com/alfredbaudisch), a [PayPal donation](https://www.paypal.com/donate?hosted_button_id=FC5FTRRE3548C) or [buy me a coffee with Ko-fi](https://ko-fi.com/alfredbaudisch). Or of course, [you can get the course](https://splitpainter.itch.io/dynamic-inventory-system-and-ui-with-godot-course) and learn how to make all of this from scratch.
 
 Patrons and donors of any tier will have their name listed here. Patrons of the **Sponsors** tier or higher, can also have a link and a logo listed here.
 
